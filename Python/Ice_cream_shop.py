@@ -7,9 +7,9 @@
 #In other words, only change the body of the function, not the code outside the function.
 #By the way: you need not and *should not* use `input` in this exercise. This is a common point of confusion. `input` is only used when creating *interactive* applications, where the user interacts with the program. In this task, the variables are already set to the given values in the source code. You can change these values in the source code (as the price of different products changes), but you cannot and should not be using `input` to create an interactive program.
 
-price_cone = 0.70
-price_per_scoop_vanilla = 1.00
-price_per_scoop_chocolate = 1.10
+price_cone = 0.80
+price_per_scoop_vanilla = 1.10
+price_per_scoop_chocolate = 1.00
 
 num_scoops_vanilla = 1
 num_scoops_chocolate = 3
